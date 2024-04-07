@@ -1,0 +1,17 @@
+#section1{
+    width: 100%;
+	background-color:#D5CEE6;
+    overflow: hidden;
+    margin-top: 130px; 
+    
+}
+#section1{
+	font-size:40px;
+	font-family:Arial;
+    text-align:center;
+}
+#img_bg_1{
+    border:10px solid white;
+    margin-top:2rem;
+    border-radius: 10px;
+}

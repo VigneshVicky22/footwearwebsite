@@ -1,0 +1,13 @@
+#section6{
+	width:100%;
+	height:300px;
+	display:flex;
+	align-items:center;
+	justify-content: center;
+	background-color:#D5CEE6;
+}
+#section6 img{
+	width:200px;
+	height:auto;
+	
+}

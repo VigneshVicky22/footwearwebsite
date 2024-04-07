@@ -1,0 +1,9 @@
+#bestseller p{
+	width:100%;
+	height:50px;
+    text-align:center;
+	font-family:Arial Black;
+	color:GREEN;
+	background-color:#D5CEE6;
+	font-size:26PX;
+}

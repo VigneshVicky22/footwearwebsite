@@ -1,0 +1,12 @@
+#trustedpartners{
+	width:100%;
+	height:50px;
+	display:flex;
+	align-items:center;
+	justify-content: center;
+	background-color:#D5CEE6;
+}
+#trustedpartners p{
+	font-size:26px;
+	font-family:Bookman Old Style;
+}

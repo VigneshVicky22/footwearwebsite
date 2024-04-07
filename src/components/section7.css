@@ -1,0 +1,21 @@
+#section7{
+	width:100%;
+	height:400px;
+	display:flex;
+	background-color:#D5CEE6;
+	font-size:22px;
+}
+#section7 h4{
+	font-size:1rem;
+	font-family:Arial Black;
+	margin-left:20px;
+}
+#section7 ul{
+	font-size:16px;
+	/* margin-left:10px; */
+	color:#4A4A4A;
+}
+#section7 article{
+	width:20%;
+	height:300px;
+}

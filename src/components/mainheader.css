@@ -1,0 +1,31 @@
+header {
+    background-color:#D5CEE6;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:10px 20px;
+    height:80px;
+
+}
+header p{
+	font-family:Snap ITC;
+	font-size:46px;
+	color:black;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+header img{
+	margin-right:auto;
+}
+input{
+	float:right;
+	padding:7px;
+	border-radius:25px;
+	background-color:rgba(0,0,0,0);
+}
+input::placeholder{
+	color:black;
+}

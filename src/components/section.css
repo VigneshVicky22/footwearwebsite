@@ -1,0 +1,23 @@
+#section2 {
+    display: flex;
+    justify-content: space-around;
+    background-color:#D5CEE6;
+    padding: 20px;
+}
+#section2 {
+    text-align: center;
+    padding: 20px;
+    background-color:#D5CEE6;
+    max-width: 100%; 
+}
+#section2 img {
+    display: block;
+    margin: 0 auto;
+	border: 2px solid #AF7AD5;
+    width: 100%;
+	height:400PX;
+}
+#section2 p{
+	font-size: 32px;
+    color:BLACK;
+}
