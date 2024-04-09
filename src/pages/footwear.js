@@ -13,33 +13,25 @@ import Footer from '../components/footer'
 const Footwear = () => {
   return (
     <div>
-    <article className='head'>
-    <Header/> 
-    </article>
-    <article className='sec1'>
+    
+   
     <Section1/>
-    </article>
-    <article className='sec2'>
+    
     <Section2/>
-    </article>
-    <article className='sec3'>
+    
     <Section3/>
-    </article>
-    <article className='sec4'>
+    
     <Section4/>
-    </article>
-    <article className='sec5'>
+    
     <Section5/>
     <Button/>
     <Partner/>
-   </article>
-   <article className='sec6'>
+   
     <Section6/>
-    </article>
-    <article className='sec7'>
+    
     <Section7/>
-    </article>
-    <Footer/>
+    
+    
     </div>
   )
 }
